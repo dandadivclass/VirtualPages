@@ -1,18 +1,15 @@
 # VirtualPages
 O VirtualPages consiste em um sistema de Livraria, onde será possível organizar suas leituras atuais.
  # Funcionalidades:
- <li>
-  <ul>
-   Cadastrar livros lidos
-   Cadastrar livros em andamento 
-   Atualizar número de páginas lidas atualmente
-   Adicionar estrelas ao livro
-   Finalizar leitura com uma anotação
-   Criar uma biblioteca
-   Dar nome e descrição para a biblioteca
-   Adicionar livros à bibliotecas.
-  </ul>
- </li>
+ 
+   <li>Cadastrar livros lidos </li>
+   <li>Cadastrar livros em andamento </li>
+   <li>Atualizar número de páginas lidas atualmente</li>
+   <li>Adicionar estrelas ao livro</li>
+   <li>Finalizar leitura com uma anotação</li>
+   <li>Criar uma biblioteca</li>
+   <li>Dar nome e descrição para a biblioteca</li>
+   <li> Adicionar livros à bibliotecas.</li>
   
 # Tecnologias do projeto:
   No momento, o VirtualPages está sendo construído em Java e SQL!
